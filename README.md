@@ -26,7 +26,7 @@ Projeto que aplica **Regressão Linear** para prever valores imobiliários com b
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Python 3.x**  
+- **Python 3**  
 - **Bibliotecas**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`
 
 ---
